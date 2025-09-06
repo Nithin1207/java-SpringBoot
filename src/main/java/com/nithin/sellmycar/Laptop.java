@@ -7,6 +7,7 @@ public class Laptop implements Computer {
 
     public void code() {
         System.out.println("right now i am in laptop class");
+        //Laptop class
     }
 
 }

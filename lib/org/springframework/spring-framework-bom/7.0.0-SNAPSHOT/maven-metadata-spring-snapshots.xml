@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-framework-bom</artifactId>
+  <versioning>
+    <lastUpdated>20250906150250</lastUpdated>
+    <snapshot>
+      <timestamp>20250906.150009</timestamp>
+      <buildNumber>863</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>7.0.0-20250906.150009-863</value>
+        <updated>20250906150009</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>7.0.0-20250906.150009-863</value>
+        <updated>20250906150009</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module.asc</extension>
+        <value>7.0.0-20250906.150009-863</value>
+        <updated>20250906150009</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>7.0.0-20250906.150009-863</value>
+        <updated>20250906150009</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>7.0.0-SNAPSHOT</version>
+</metadata>

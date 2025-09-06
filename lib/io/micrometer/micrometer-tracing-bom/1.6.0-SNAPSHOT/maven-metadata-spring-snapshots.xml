@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.micrometer</groupId>
+  <artifactId>micrometer-tracing-bom</artifactId>
+  <versioning>
+    <lastUpdated>20250904150835</lastUpdated>
+    <snapshot>
+      <timestamp>20250904.150502</timestamp>
+      <buildNumber>74</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.6.0-20250904.150502-74</value>
+        <updated>20250904150502</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom.sha512</extension>
+        <value>1.6.0-20250904.150502-74</value>
+        <updated>20250904150502</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.6.0-20250904.150502-74</value>
+        <updated>20250904150502</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom.asc.sha512</extension>
+        <value>1.6.0-20250904.150502-74</value>
+        <updated>20250904150502</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.6.0-SNAPSHOT</version>
+</metadata>

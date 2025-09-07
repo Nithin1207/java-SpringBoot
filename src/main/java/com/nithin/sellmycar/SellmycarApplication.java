@@ -9,9 +9,7 @@ public class SellmycarApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext context = SpringApplication.run(SellmycarApplication.class, args);
-		Alien alien = context.getBean(Alien.class);
-		// alien.setCom(new Desktop());
-		alien.alien();
+		AlienController alien = context.getBean(AlienController.class);
 
 	}
 
